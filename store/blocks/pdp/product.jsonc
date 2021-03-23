@@ -7,6 +7,9 @@
       "flex-layout.row#specifications-title",
       "product-specification-group#table",
       "shelf.relatedProducts",
+      "rich-text#shelf-title2",
+      "flex-layout.row#shelf",
+      "newsletter",
       "flex-layout.row#deals"
     ]
   },
@@ -101,7 +104,7 @@
 
       // "product-installments",
       // "product-separator",
-      
+
       "product-quantity",
       "product-assembly-options",
       "product-gifts",
