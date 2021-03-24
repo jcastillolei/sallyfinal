@@ -125,8 +125,6 @@
 
   "sku-selector": {
     "props": {
-      "variationsSpacing": 3,
-      "showValueNameForImageVariation": true,
       "blockClass": "sku-selector"
     }
   },

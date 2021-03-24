@@ -69,7 +69,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/about-us",
+            "href": "/coloracion?map=category-1,category-2&query=/coloracion/tintes&searchState",
             "noFollow": true,
             "tagTitle": "TINTES",
             "text": "TINTES"
@@ -84,7 +84,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/coloracion?map=category-1,category-2&query=/coloracion/oxidantes-y-decolorantes&searchState",
             "noFollow": true,
             "tagTitle": "OXIDANTES Y DECOLORANTES",
             "text": "OXIDANTES Y DECOLORANTES"
@@ -99,7 +99,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/coloracion?map=category-1,category-2&query=/coloracion/accesorios&searchState",
             "noFollow": true,
             "tagTitle": "ACCESORIOS",
             "text": "ACCESORIOS"
@@ -114,7 +114,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/coloracion",
             "noFollow": true,
             "tagTitle": "VER TODO COLORACIÓN",
             "text": "VER TODO COLORACIÓN"
@@ -141,7 +141,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/about-us",
+            "href": "/coloracion?map=category-2&query=/tintes&searchState",
             "noFollow": true,
             "tagTitle": "TINTES",
             "text": "TINTES"
@@ -156,7 +156,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/coloracion?map=category-2,category-2,category-3&query=/accesorios/tintes/permanentes&searchState",
             "noFollow": true,
             "tagTitle": "Permanentes",
             "text": "Permanentes"
@@ -171,7 +171,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/coloracion?map=category-2,category-3&query=/tintes/temporales-y-fantasias&searchState",
             "noFollow": true,
             "tagTitle": "Temporales y Fantasía",
             "text": "Temporales y Fantasía"
@@ -186,7 +186,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/coloracion?map=category-2,category-3&query=/tintes/cubre-raiz&searchState",
             "noFollow": true,
             "tagTitle": "Cubre Raíz",
             "text": "Cubre Raíz"

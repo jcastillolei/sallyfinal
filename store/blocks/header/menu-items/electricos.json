@@ -75,7 +75,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/about-us",
+            "href": "/electricos?map=category-1,category-2&query=/electricos/secadores&searchState",
             "noFollow": true,
             "tagTitle": "SECADORAS",
             "text": "SECADORAS"
@@ -90,7 +90,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/electricos?map=category-1,category-2&query=/electricos/planchas-alisadores&searchState",
             "noFollow": true,
             "tagTitle": "PLANCHAS/ALISADORES",
             "text": "PLANCHAS/ALISADORES"
@@ -105,7 +105,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/electricos?map=category-1,category-2&query=/electricos/cryocare&searchState",
             "noFollow": true,
             "tagTitle": "CRYOCARE",
             "text": "CRYOCARE"
@@ -120,7 +120,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/electricos?map=category-1,category-2&query=/electricos/cepillos-electricos&searchState",
             "noFollow": true,
             "tagTitle": "CEPILLOS ELÉCTRICOS",
             "text": "CEPILLOS ELÉCTRICOS"
@@ -135,7 +135,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/electricos?map=category-1,category-2&query=/electricos/onduladores-rizadores&searchState",
             "noFollow": true,
             "tagTitle": "ONDULADORES/RIZADORES",
             "text": "ONDULADORES/RIZADORES"
@@ -150,7 +150,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/electricos?map=category-1,category-2&query=/electricos/cortadoras-de-pelo-barba&searchState",
             "noFollow": true,
             "tagTitle": "CORTADORAS DE PELO/BARBA (CLIPPER)",
             "text": "CORTADORAS DE PELO/BARBA (CLIPPER)"
@@ -165,7 +165,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/electricos?map=category-1,category-2&query=/electricos/desvelladoras&searchState",
             "noFollow": true,
             "tagTitle": "DESVELLADORAS (TRIMMER)",
             "text": "DESVELLADORAS (TRIMMER)"
@@ -180,7 +180,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/lamparas%20esmaltado?_q=lamparas%20esmaltado&map=ft",
             "noFollow": true,
             "tagTitle": "LÁMPARAS ESMALTADO PERMANENTE",
             "text": "LÁMPARAS ESMALTADO PERMANENTE"
@@ -195,7 +195,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/electricos?map=category-1,category-2&query=/electricos/accesorios&searchState",
             "noFollow": true,
             "tagTitle": "ACCESORIOS",
             "text": "ACCESORIOS"
@@ -210,7 +210,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/electricos",
             "noFollow": true,
             "tagTitle": "VER TODO ELÉCTRICOS",
             "text": "VER TODO ELÉCTRICOS"
@@ -237,7 +237,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/about-us",
+            "href": "#",
             "noFollow": true,
             "tagTitle": "MARCAS",
             "text": "MARCAS"
@@ -252,7 +252,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/electricos?map=category-1,brand&query=/electricos/babylisspro&searchState",
             "noFollow": true,
             "tagTitle": "BabylissPRO",
             "text": "BabylissPRO"
@@ -267,7 +267,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/gelish?_q=gelish&map=ft",
             "noFollow": true,
             "tagTitle": "Gelish",
             "text": "Gelish"
@@ -282,7 +282,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "#",
             "noFollow": true,
             "tagTitle": "Wahl",
             "text": "Wahl"

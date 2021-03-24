@@ -80,7 +80,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/about-us",
+            "href": "/maquillaje?map=category-1,category-2&query=/maquillaje/rostro&searchState",
             "noFollow": true,
             "tagTitle": "ROSTRO",
             "text": "ROSTRO"
@@ -95,7 +95,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje?map=category-1,category-2&query=/maquillaje/mejillas&searchState",
             "noFollow": true,
             "tagTitle": "MEJILLAS",
             "text": "MEJILLAS"
@@ -110,7 +110,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje?map=category-2&query=/ojos&searchState",
             "noFollow": true,
             "tagTitle": "OJOS",
             "text": "OJOS"
@@ -125,7 +125,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje?map=category-1,category-3&query=/maquillaje/pestanas&searchState",
             "noFollow": true,
             "tagTitle": "PESTAÑAS",
             "text": "PESTAÑAS"
@@ -140,7 +140,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje?map=category-1,category-2&query=/maquillaje/labios&searchState",
             "noFollow": true,
             "tagTitle": "LABIOS",
             "text": "LABIOS"
@@ -155,7 +155,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje?map=category-1,category-2&query=/maquillaje/paletas-y-sets&searchState",
             "noFollow": true,
             "tagTitle": "PALETAS Y SETS",
             "text": "PALETAS Y SETS"
@@ -170,7 +170,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje?map=category-1,category-2&query=/maquillaje/brochas-y-aplicadores&searchState",
             "noFollow": true,
             "tagTitle": "BROCHAS Y APLICADORES",
             "text": "BROCHAS Y APLICADORES"
@@ -185,7 +185,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje?map=category-1,category-2&query=/maquillaje/accesorios&searchState",
             "noFollow": true,
             "tagTitle": "ACCESORIOS",
             "text": "ACCESORIOS"
@@ -200,7 +200,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje",
             "noFollow": true,
             "tagTitle": "VER TODO MAQUILLAJE",
             "text": "VER TODO MAQUILLAJE"
@@ -233,7 +233,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/about-us",
+            "href": "#",
             "noFollow": true,
             "tagTitle": "ROSTRO",
             "text": "ROSTRO"
@@ -248,7 +248,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje?map=category-1,category-2,category-3&query=/maquillaje/rostro/primer&searchState",
             "noFollow": true,
             "tagTitle": "Primer",
             "text": "Primer"
@@ -263,7 +263,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje?map=category-1,category-2,category-3&query=/maquillaje/rostro/base&searchState",
             "noFollow": true,
             "tagTitle": "Base",
             "text": "Base"
@@ -278,7 +278,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje?map=category-1,category-2,category-3&query=/maquillaje/rostro/papel-matificante&searchState",
             "noFollow": true,
             "tagTitle": "Papel Matificante",
             "text": "Papel Matificante"
@@ -293,7 +293,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje?map=category-1,category-2,category-3&query=/maquillaje/rostro/corrector&searchState",
             "noFollow": true,
             "tagTitle": "Corrector",
             "text": "Corrector"
@@ -308,7 +308,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje?map=category-1,category-2,category-3&query=/maquillaje/rostro/polvos&searchState",
             "noFollow": true,
             "tagTitle": "Polvos",
             "text": "Polvos"
@@ -323,7 +323,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje?map=category-1,category-2,category-3&query=/maquillaje/rostro/iluminador&searchState",
             "noFollow": true,
             "tagTitle": "Iluminador",
             "text": "Iluminador"
@@ -338,7 +338,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje?map=category-1,category-2,category-2&query=/maquillaje/mejillas/rostro&searchState",
             "noFollow": true,
             "tagTitle": "MEJILLAS",
             "text": "MEJILLAS"
@@ -353,7 +353,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje?map=category-1,category-2,category-2,category-3&query=/maquillaje/mejillas/rostro/iluminador&searchState",
             "noFollow": true,
             "tagTitle": "Rubor",
             "text": "Rubor"
@@ -368,7 +368,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje?map=category-1,category-2,category-3,category-3&query=/maquillaje/rostro/iluminador/polvos-bronceadores&searchState",
             "noFollow": true,
             "tagTitle": "Polvos Bronceadores",
             "text": "Polvos Bronceadores"
@@ -403,7 +403,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/about-us",
+            "href": "#",
             "noFollow": true,
             "tagTitle": "OJOS",
             "text": "OJOS"
@@ -418,7 +418,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje?map=category-1,category-2,category-3&query=/maquillaje/ojos/primer&searchState",
             "noFollow": true,
             "tagTitle": "Primer",
             "text": "Primer"
@@ -433,7 +433,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje?map=category-1,category-2,category-3&query=/maquillaje/ojos/corrector&searchState",
             "noFollow": true,
             "tagTitle": "Corrector",
             "text": "Corrector"
@@ -448,7 +448,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje?map=category-1,category-2,category-3&query=/maquillaje/ojos/sombras&searchState",
             "noFollow": true,
             "tagTitle": "Sombras",
             "text": "Sombras"
@@ -463,7 +463,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje?map=category-1,category-2,category-3&query=/maquillaje/ojos/delineadores-de-ojos&searchState",
             "noFollow": true,
             "tagTitle": "Delineadores de Ojos",
             "text": "Delineadores de Ojos"
@@ -478,7 +478,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje?map=category-1,category-2,category-3&query=/maquillaje/ojos/mascara&searchState",
             "noFollow": true,
             "tagTitle": "Máscara",
             "text": "Máscara"
@@ -493,7 +493,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje?map=category-1,category-2,category-3&query=/maquillaje/ojos/delineador-de-cejas&searchState",
             "noFollow": true,
             "tagTitle": "Delineador de Cejas",
             "text": "Delineador de Cejas"
@@ -508,7 +508,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje?map=category-1,category-2,category-3&query=/maquillaje/ojos/pestanas&searchState",
             "noFollow": true,
             "tagTitle": "Pestanas",
             "text": "Pestanas"
@@ -523,7 +523,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje?map=category-1,category-2&query=/maquillaje/labios&searchState",
             "noFollow": true,
             "tagTitle": "LABIOS",
             "text": "LABIOS"
@@ -538,7 +538,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje?map=category-1,category-2,category-3&query=/maquillaje/labios/delineador-de-labios&searchState",
             "noFollow": true,
             "tagTitle": "Delineador de Labios",
             "text": "Delineador de Labios"
@@ -553,7 +553,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje?map=category-1,category-2,category-3&query=/maquillaje/labios/labiales&searchState",
             "noFollow": true,
             "tagTitle": "Labiales",
             "text": "Labiales"
@@ -568,7 +568,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/maquillaje?map=category-1,category-2,category-3&query=/maquillaje/labios/brillo-labial&searchState",
             "noFollow": true,
             "tagTitle": "Brillo Labial",
             "text": "Brillo Labial"

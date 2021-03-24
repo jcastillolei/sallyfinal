@@ -7,7 +7,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "#",
+            "href": "/hombre",
             "noFollow": true,
             "tagTitle": "HOMBRE",
             "text": "HOMBRE"
@@ -63,7 +63,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/about-us",
+            "href": "#",
             "noFollow": true,
             "tagTitle": "ELÉCTRICO",
             "text": "ELÉCTRICO"
@@ -78,7 +78,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "#",
             "noFollow": true,
             "tagTitle": "CUIDADO DE LA PIEL",
             "text": "CUIDADO DE LA PIEL"
@@ -93,7 +93,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "#",
             "noFollow": true,
             "tagTitle": "CABELLO",
             "text": "CABELLO"
@@ -108,7 +108,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/hombre",
             "noFollow": true,
             "tagTitle": "VER TODO HOMBRE",
             "text": "VER TODO HOMBRE"

@@ -11,7 +11,7 @@
       "menu-item#unas",
       "menu-item#maquillaje",
       "menu-item#piel",
-      "menu-item#hombre"    
+      "menu-item#hombre"
     ]
   },
   "menu-item#category-apparel": {
@@ -22,7 +22,7 @@
       "highlight": false,
       "itemProps": {
         "type": "internal",
-        "href": "/apparel---accessories/",
+        "href": "/cabello/",
         "noFollow": false,
         "tagTitle": "CABELLOS",
         "text": "CABELLOS"

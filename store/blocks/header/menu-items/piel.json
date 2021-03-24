@@ -71,7 +71,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/about-us",
+            "href": "/piel?map=category-1,category-2&query=/piel/rostro&searchState",
             "noFollow": true,
             "tagTitle": "ROSTRO",
             "text": "ROSTRO"
@@ -86,7 +86,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/piel?map=category-1,category-2&query=/piel/ojos&searchState",
             "noFollow": true,
             "tagTitle": "OJOS",
             "text": "OJOS"
@@ -101,7 +101,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/piel?map=category-1,category-2&query=/piel/cuerpo-y-manos&searchState",
             "noFollow": true,
             "tagTitle": "CUERPO Y MANOS",
             "text": "CUERPO Y MANOS"
@@ -116,7 +116,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/piel?map=category-1,category-2&query=/piel/depilacion&searchState",
             "noFollow": true,
             "tagTitle": "DEPILACIÓN",
             "text": "DEPILACIÓN"
@@ -131,7 +131,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/piel?map=category-1,category-2&query=/piel/pies&searchState",
             "noFollow": true,
             "tagTitle": "PIES",
             "text": "PIES"
@@ -146,7 +146,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/piel",
             "noFollow": true,
             "tagTitle": "VER TODO PIEL",
             "text": "VER TODO PIEL"
@@ -175,7 +175,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/about-us",
+            "href": "#",
             "noFollow": true,
             "tagTitle": "ROSTRO",
             "text": "ROSTRO"
@@ -190,7 +190,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/piel?map=category-1,category-2,category-3&query=/piel/rostro/exfoliantes&searchState",
             "noFollow": true,
             "tagTitle": "Exfoliantes",
             "text": "Exfoliantes"
@@ -205,7 +205,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/piel?map=category-1,category-2,category-3&query=/piel/rostro/mascaras&searchState",
             "noFollow": true,
             "tagTitle": "Máscaras",
             "text": "Máscaras"
@@ -220,7 +220,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/piel?map=category-1,category-2,category-3&query=/piel/rostro/limpiadores-faciales&searchState",
             "noFollow": true,
             "tagTitle": "Limpiadores Faciales",
             "text": "Limpiadores Faciales"
@@ -235,7 +235,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "#",
             "noFollow": true,
             "tagTitle": "Hidratantes",
             "text": "Hidratantes"
@@ -250,7 +250,7 @@
           "highlight": false,
           "itemProps": {
             "type": "internal",
-            "href": "/faq",
+            "href": "/piel?map=category-1,category-2,category-3&query=/piel/rostro/tratamientos&searchState",
             "noFollow": true,
             "tagTitle": "Tratamientos",
             "text": "Tratamientos"
