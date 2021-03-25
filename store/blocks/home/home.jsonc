@@ -16,6 +16,7 @@
       "flex-layout.row#deals"
     ]
   },
+
   "flex-layout.row#form": {
     "children": [
       "flex-layout.col#form"

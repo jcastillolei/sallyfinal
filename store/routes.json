@@ -2,6 +2,9 @@
   "store.custom#cotizacion": {
     "path": "cotizacion"
   },
+  "store.custom#profesionalesform": {
+    "path": "profesionales"
+  },
   "store.home": {
     "path": "/"
   },
@@ -12,6 +15,11 @@
     "path": "/login"
   },
   "store.product": {
+    "path": "/_v/segment/routing/vtex.store@2.x/product/:id/:slug/p",
+    "canonical": "/:slug/p",
+    "contentType": "product"
+  },
+  "store.product#tintes": {
     "path": "/_v/segment/routing/vtex.store@2.x/product/:id/:slug/p",
     "canonical": "/:slug/p",
     "contentType": "product"

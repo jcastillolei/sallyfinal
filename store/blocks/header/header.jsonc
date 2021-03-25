@@ -42,7 +42,8 @@
     },
     "children": [
       "vtex.menu@2.x:menu#websites",
-      "flex-layout.col#spacer"
+      "flex-layout.col#spacer",
+      "login"
     ]
   },
   "flex-layout.col#spacer": {
@@ -112,6 +113,15 @@
       "preventHorizontalStretch": true,
       "preserveLayoutOnMobile": true,
       "fullWidth": true
+    }
+  },
+  "login": {
+    "props": {
+      "emailAndPasswordTitle": "LOG-IN",
+      "accessCodeTitle": "Acess Code LOG-IN",
+      "emailPlaceholder": "e-mail",
+      "passwordPlaceholder": "password",
+      "showPasswordVerificationIntoTooltip": true
     }
   },
   "drawer": {

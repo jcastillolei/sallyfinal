@@ -64,7 +64,9 @@
     "children": [
       "flex-layout.row#searchbread",
       "flex-layout.row#searchtitle",
-      "flex-layout.row#result"
+      "flex-layout.row#result",
+      "newsletter",
+      "flex-layout.row#deals"
     ],
     "props": {
       "pagination": "show-more",
