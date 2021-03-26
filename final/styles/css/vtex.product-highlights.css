@@ -1,0 +1,15 @@
+.productHighlightWrapper--collection {
+  position: absolute;
+  top: 10px;
+  left: 5px;
+  width: 200px;
+}
+
+.productHighlightText {
+  background: #F75454 !important;
+  border-radius: 20px;
+  padding: 5px 10px;
+  color: white;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 600;
+}
