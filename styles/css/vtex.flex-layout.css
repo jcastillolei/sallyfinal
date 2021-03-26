@@ -215,3 +215,21 @@
 .flexRowContent--fondo .stretchChildrenWidth:nth-child(even){
   width: 34% !important;
 }
+
+/* p r o d u c t o | especificacion */
+.flexRow--productSpecificationGroupName{
+  display: none;
+}
+.flexRowContent--productSpecificationGroup 
+:global(.vtex-product-specifications-1-x-specificationName){
+  font-family: 'Share Tech', sans-serif;
+  font-size: 13px;
+}
+.flexCol--productSpecificationValue{
+  font-size: 13px;
+}
+.flexRowContent--productSpecificationGroup{
+  width: 70%;
+  margin: -32px auto 3rem;
+  font-family: 'PT Sans', sans-serif;
+}

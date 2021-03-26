@@ -57,17 +57,21 @@
   display: none;
 }
 
+:global(.vtex-search-result-3-x-galleryItem--normal)
+:global(.vtex-button),
 :global(.vtex-slider-layout-0-x-sliderLayoutContainer--shelf)
 :global(.vtex-product-summary-2-x-container)
 :global(.vtex-button){
-  background: #868686;
+  background: #868686 !important;
   font-family: 'PT Sans', sans-serif;
   font-size: 11px;
   border: none;
   border-radius: 50px;
   font-weight: bold;
 }
-
+:global(.vtex-search-result-3-x-galleryItem--normal)
+:global(.vtex-button)
+:global(.vtex-add-to-cart-button-0-x-buttonDataContainer)::after,
 :global(.vtex-slider-layout-0-x-sliderLayoutContainer--shelf)
 :global(.vtex-product-summary-2-x-container)
 :global(.vtex-add-to-cart-button-0-x-buttonDataContainer)::after{
@@ -79,9 +83,10 @@
   margin-top: -1px;
 }
 
-
+:global(.vtex-search-result-3-x-galleryItem--normal)
+:global(.vtex-button):hover,
 :global(.vtex-slider-layout-0-x-sliderLayoutContainer--shelf)
 :global(.vtex-product-summary-2-x-container)
 :global(.vtex-button):hover{
-  background: #F75454;
+  background: #F75454 !important;
 }

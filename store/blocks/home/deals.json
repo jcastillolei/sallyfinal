@@ -44,8 +44,8 @@
   },
   "image#deal2": {
     "props": {
-      "src": "https://storecomponents.vteximg.com.br/arquivos/delivery-truck.png",
-      "maxHeight": "24px"
+      "src": "https://sallybeautyb2b.vteximg.com.br/arquivos/delivery-truck.png",
+      "maxHeight": "30px"
     }
   },
   "rich-text#deal2": {
@@ -66,8 +66,8 @@
   },
   "image#deal3": {
     "props": {
-      "src": "https://storecomponents.vteximg.com.br/arquivos/credit-card.png",
-      "maxHeight": "24px"
+      "src": "https://sallybeautyb2b.vteximg.com.br/arquivos/credit-card.png",
+      "maxHeight": "30px"
     }
   },
   "rich-text#deal3": {

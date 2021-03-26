@@ -43,13 +43,25 @@
           "mobileImage": "https://sallybeautyb2b.vteximg.com.br/arquivos/B-HMS-Profesional-B2b.png"
         },
         {
-          "image": "https://sallybeautyb2b.vteximg.com.br/arquivos/banner2.jpg",
-          "mobileImage": "https://sallybeautyb2b.vteximg.com.br/arquivos/banner2.jpg"
+          "image": "https://sallybeautyb2b.vteximg.com.br/arquivos/B-HWS-Compra-Por-volumen.png",
+          "mobileImage": "https://sallybeautyb2b.vteximg.com.br/arquivos/B-HMS-Compra-Por-volumen.png"
+        },
+        {
+          "image": "https://sallybeautyb2b.vteximg.com.br/arquivos/B-HWS-Olaplex-Profesional.png",
+          "mobileImage": "https://sallybeautyb2b.vteximg.com.br/arquivos/B-HMS-Olaplex-Profesional.png"
+        },
+        {
+          "image": "https://sallybeautyb2b.vteximg.com.br/arquivos/banner3.gif",
+          "mobileImage": "https://sallybeautyb2b.vteximg.com.br/arquivos/B-HMS-Barber.png"
         },
         {
           "image": "https://sallybeautyb2b.vteximg.com.br/arquivos/banner3.gif",
           "mobileImage": "https://sallybeautyb2b.vteximg.com.br/arquivos/banner3.gif"
-        }
+        },
+        {
+          "image": "https://sallybeautyb2b.vteximg.com.br/arquivos/B-HWS-Lanzamiento-Teknia.png",
+          "mobileImage": "https://sallybeautyb2b.vteximg.com.br/arquivos/B-HMS-Lanzamiento-Teknia.png"
+        }  
       ]
     }
   },
@@ -284,16 +296,19 @@
       "height": 650,
       "images": [
         {
-          "image": "https://sallybeautyb2b.vteximg.com.br/arquivos/barr1.jpg",
-          "description": "something something"
+          "image": "https://sallybeautyb2b.vteximg.com.br/arquivos/banner-cuadrado-Dabalash-Generico-Desktop.png",
+          "mobileImage": "https://sallybeautyb2b.vteximg.com.br/arquivos/banner-cuadrado-Dabalash-Generico-Movil.png",
+          "description": "dabalash"
         },
         {
-          "image": "https://sallybeautyb2b.vteximg.com.br/arquivos/barr2.jpg",
-          "description": "something something"
+          "image": "https://sallybeautyb2b.vteximg.com.br/arquivos/banner-cuadrado-Bodyography-Desktop.png",
+          "mobileImage": "https://sallybeautyb2b.vteximg.com.br/arquivos/banner-cuadrado-Bodyography-Movil.png",
+          "description": "make up professional bodyography"
         },
         {
-          "image": "https://sallybeautyb2b.vteximg.com.br/arquivos/barr3.png",
-          "description": "something something"
+          "image": "https://sallybeautyb2b.vteximg.com.br/arquivos/banner-cuadrado-Gelish-Desktop.png",
+          "mobileImage": "https://sallybeautyb2b.vteximg.com.br/arquivos/banner-cuadrado-Gelish-Movil.png",
+          "description": "gelish"
         }
       ]
     }
