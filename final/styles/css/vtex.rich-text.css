@@ -120,3 +120,11 @@
   margin-top: 1.2rem;
   margin-bottom: .8rem;
 }
+
+.paragraph--content-login-left{
+  color: white;
+}
+
+.wrapper--content-login-left{
+  margin-left: 50px;
+}
