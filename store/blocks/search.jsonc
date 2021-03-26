@@ -6,6 +6,9 @@
         "skusFilter": "ALL",
         "simulationBehavior": "skip"
       }
+    },
+    "parent": {
+      "challenge": "challenge.trade-policy-condition"
     }
   },
 

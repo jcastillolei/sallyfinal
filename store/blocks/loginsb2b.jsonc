@@ -1,0 +1,11 @@
+{
+  "store.custom#loginsb2b": {
+    "parent": {
+      "header": "header#loginsb2b",
+      "footer": "footer#loginsb2b"
+    },
+    "blocks": [
+      "login-content"
+    ]
+  }
+}
