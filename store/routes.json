@@ -2,6 +2,9 @@
   "store.custom#cotizacion": {
     "path": "cotizacion"
   },
+  "store.custom#loginsb2b": {
+    "path": "loginsb2b"
+  },
   "store.custom#profesionalesform": {
     "path": "profesionales"
   },

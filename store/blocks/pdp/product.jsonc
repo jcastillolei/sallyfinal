@@ -11,7 +11,10 @@
       "flex-layout.row#shelf",
       "newsletter",
       "flex-layout.row#deals"
-    ]
+    ],
+    "parent": {
+      "challenge": "challenge.trade-policy-condition"
+    }
   },
   "condition-layout.product": {
     "children": [

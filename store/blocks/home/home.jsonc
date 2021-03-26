@@ -14,9 +14,17 @@
       "flex-layout.row#shelf",
       "newsletter",
       "flex-layout.row#deals"
-    ]
+    ],
+    "parent": {
+      "challenge": "challenge.trade-policy-condition"
+    }
   },
-
+  "challenge.trade-policy-condition": {
+    "props": {
+      "redirectPath": "/loginsb2b",
+      "defaultContentVisibility": "hidden"
+    }
+  },
   "flex-layout.row#form": {
     "children": [
       "flex-layout.col#form"
